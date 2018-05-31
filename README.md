@@ -22,6 +22,13 @@ python format_decoder.py
 ```
 python nn.py
 ```
+
 就会开始训练。 
-我在代码里面添加了指数衰减学习率等粗略优化方法，训练结果没有达到特别高的效果，0.9的准确率。后续将进一步进行优化。
+我在代码里面添加了指数衰减学习率等粗略优化方法，训练结果没有达到特别高的效果，0.9左右的准确率。后续将进一步进行优化。
+训练j结果通过可视化显示：
+
+
+![Alt text](https://raw.githubusercontent.com/leviome/manual_GD/master/figures/myplot.png)
+
+
 
