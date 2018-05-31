@@ -28,7 +28,7 @@ python nn.py
 训练j结果通过可视化显示：
 
 
-![Alt text](https://raw.githubusercontent.com/leviome/manual_GD/master/figures/myplot.png)
+<center>![Alt text](https://raw.githubusercontent.com/leviome/manual_GD/master/figures/myplot.png)</center>
 
 
 
